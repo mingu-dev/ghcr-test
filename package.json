@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mingukang-kr/ghcr-test/issues"
   },
-  "homepage": "https://github.com/mingukang-kr/ghcr-test#readme"
+  "homepage": "https://github.com/mingukang-kr/ghcr-test#readme",
+  "publishConfig": {
+    "@mingukang-kr:registry": "https://npm.pkg.github.com"
+  }
 }
